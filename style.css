@@ -1,6 +1,41 @@
-h1{
-    color: blue;
+.box{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid #cc1476;
+    width: 300px;
+    
+    margin: auto;
+    background-color: #cc1476;
 }
-h2{
-    color: brown;
+.imgcard{
+    width: 20%;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+.heading{
+    border-left: 2px solid aliceblue;
+    border-right: 2px solid aliceblue;
+    text-align: center;
+    color: aliceblue;
+    font-size: 35px;
+}
+.para1{
+    color: aliceblue;
+    text-align: justify;
+
+}
+.box2{
+    padding: 12px ;
+}
+.b1{
+   display: block;
+    margin: auto;
+    width: 200px;
+    height: 45px;
+    margin-bottom: 20px;
+
+    border-radius: 45px;
+    font-size: 20px;
+    border: 1px solid aliceblue;
+    color: #cc1476;
 }
